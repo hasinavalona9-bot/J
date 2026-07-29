@@ -1,0 +1,6 @@
+{
+  "name": "Hay Info",
+  "description": "Application mobile Hay Info - Navigateur web fluide et sécurisé pour hayinfo.infinityfreeapp.com",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
